@@ -1,6 +1,6 @@
 {
 	"name": "project1",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
@@ -33,6 +33,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"pfj-component-dev": "^1.0.0"
+		"pfj-component-dev": "^1.0.3"
 	}
 }
