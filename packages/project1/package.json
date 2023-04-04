@@ -33,6 +33,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"pfj-component-dev": "^1.0.4"
+		"pfj-component-dev": "*"
 	}
 }
