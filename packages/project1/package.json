@@ -1,6 +1,6 @@
 {
 	"name": "project1",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
@@ -33,6 +33,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@lotivio-org-test/pfj-component-dev": "*"
+		"@lotivio-org-test/pfj-component-dev": "^3.0.0"
 	}
 }
