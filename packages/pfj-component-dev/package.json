@@ -1,5 +1,5 @@
 {
-  "name": "pfj-component-dev",
+  "name": "@lotivio-org-test/pfj-component-dev",
   "version": "1.0.4",
   "description": "",
   "main": "index.js",
@@ -22,9 +22,5 @@
     "svelte": "^3.54.0",
     "typescript": "^4.9.3",
     "vite": "^4.0.0"
-  },
-  "gitHead": "f469709bd3a589860dd167ffff5300b4097470b0",
-  "publishConfig": {
-    "access": "public"
   }
 }
