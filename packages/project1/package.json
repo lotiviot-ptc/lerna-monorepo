@@ -33,6 +33,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"pfj-component-dev": "*"
+		"@lotivio-org-test/pfj-component-dev": "*"
 	}
 }

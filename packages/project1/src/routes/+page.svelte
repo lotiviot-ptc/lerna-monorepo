@@ -1,5 +1,5 @@
 <script>
-    import { Component } from 'pfj-component-dev';
+    import { Component } from '@lotivio-org-test/pfj-component-dev';
 </script>
 
 <Component/>
