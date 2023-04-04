@@ -1,17 +1,5 @@
 36 error Error: Command failed with exit code 1: pnpm install --lockfile-only --ignore-scripts
 36 error Scope: all 3 workspace projects
-36 error Recreating /Users/501740/Documents/GitHub/lerna-monorepo/node_modules
-36 error
-36 error    ╭─────────────────────────────────────────────────────────────────╮
-36 error    │                                                                 │
-36 error    │                Update available! 7.29.1 → 8.1.1.                │
-36 error    │   Changelog: https://github.com/pnpm/pnpm/releases/tag/v8.1.1   │
-36 error    │                Run "pnpm add -g pnpm" to update.                │
-36 error    │                                                                 │
-36 error    │     Follow @pnpmjs for updates: https://twitter.com/pnpmjs      │
-36 error    │                                                                 │
-36 error    ╰─────────────────────────────────────────────────────────────────╯
-36 error
 36 error Progress: resolved 0, reused 1, downloaded 0, added 0
 36 error /Users/501740/Documents/GitHub/lerna-monorepo/packages/project1:
 36 error  ERR_PNPM_FETCH_404  GET https://registry.npmjs.org/pfj-component-dev: Not Found - 404
